@@ -28,11 +28,10 @@ I specialize in creating seamless digital experiences, focusing on intuitive use
 
 ### 📊 Stats & Insights
 
-![Mehdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MehdiEskandari&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiEskandari&layout=compact&theme=radical)
-
-![GitHub Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=MehdiEskandari&theme=dracula)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MehdiEskandari&show_icons=true&theme=radical" alt="Mehdi's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiEskandari&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+</div>
 
 ---
 
