@@ -2,70 +2,25 @@
 
 ## I'm Mehdi Eskandari
 
-**Professional UI/UX & Full-Stack Developer**  
-I specialize in creating seamless digital experiences, from intuitive user interfaces to robust server-side applications. With a strong foundation in both design and development, my passion is to build innovative solutions that leave a lasting impact.
+![GitHub followers](https://img.shields.io/github/followers/MehdiEskandari?style=social)
+![GitHub stars](https://img.shields.io/github/stars/MehdiEskandari?style=social)
 
 ---
 
-### 🛠️ Technologies & Tools
+### 📊 Stats
 
-#### **Frontend**
-- HTML/CSS, Tailwind CSS, Bootstrap, NextUI, DaisyUI
-- JavaScript, TypeScript
-- Next.js (14+), React.js, Redux, Zustand, Context API
-- Framer Motion, Styled-Components
-- Web3.js, Wagmi, Web3Modal, Tronweb
+![Mehdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MehdiEskandari&show_icons=true&theme=radical)
 
-#### **Backend**
-- Node.js, Express.js, Nest.js
-- MySQL, Prisma ORM
-- WebSocket, Socket.io
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiEskandari&layout=compact&theme=radical)
 
-#### **Design & Collaboration**
-- Figma (UI/UX Design, Prototyping)
-- Miro, Figjam
-- Jira, Trello
-
-#### **Languages**
-- Persian (Native), English (Intermediate), German (A1)
+![GitHub Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=MehdiEskandari&theme=dracula)
 
 ---
 
-### 💼 Featured Projects
-
-#### **1. Financial Trading Platform**
-- **Role:** Frontend Developer
-- **Tech Stack:** React.js, i18n, TradingView, Auth0
-- **Highlights:** Built a multilingual platform with real-time trading and data visualization features.
-
-#### **2. E-commerce Booking System**
-- **Role:** Lead Frontend Developer
-- **Tech Stack:** Next.js 14, Redux
-- **Highlights:** Developed seamless booking experiences for flights and hotels with state management.
-
-#### **3. Cryptocurrency Exchange**
-- **Role:** Frontend Developer
-- **Tech Stack:** Next.js 14, Zustand, Zod, Tailwind
-- **Highlights:** Implemented a user dashboard, wallet integration, and automated USD to IRR conversions.
-
-#### **4. Gaming Platform**
-- **Role:** Frontend Developer
-- **Tech Stack:** Next.js, Zustand, Socket.io
-- **Highlights:** Created a real-time multiplayer game integrated with Telegram WebApp Mini.
+### 🚀 Featured Projects
+🟩 [Project 1](#)  
+🟦 [Project 2](#)  
 
 ---
 
-### 🌟 Design Philosophy
-
-I believe in merging **aesthetic design** with **functional programming** to craft applications that not only look great but also perform flawlessly. My approach focuses on enhancing user engagement and delivering high-quality web and mobile solutions.
-
----
-
-### 📬 Let's Connect
-- **GitHub:** [github.com/MehdiEskandari](https://github.com/MehdiEskandari)
-- **LinkedIn:** [linkedin.com/in/mehdiskan/](https://www.linkedin.com/in/mehdiskan/)
-- **YouTube:** [youtube.com/@mehdiskan](https://www.youtube.com/@mehdiskan/)
-
----
-
-💡 *"Continuous learning and collaboration are at the core of my journey."*
+💡 *\"Continuous learning and collaboration are at the core of my journey.\"*
