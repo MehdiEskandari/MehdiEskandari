@@ -28,7 +28,7 @@ I specialize in creating seamless digital experiences, focusing on intuitive use
 
 ### 📊 Stats & Insights
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=MehdiEskandari&show_icons=true&theme=radical" alt="Mehdi's GitHub stats" height="180" style="margin-right: 1rem;"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiEskandari&layout=compact&theme=radical" alt="Top Languages" height="180" style="margin-left: 1rem;"/>
 </div>
