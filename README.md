@@ -12,7 +12,7 @@ I specialize in creating seamless digital experiences, focusing on intuitive use
 #### **Frontend**
 - HTML/CSS, Tailwind CSS, Bootstrap, NextUI, DaisyUI
 - JavaScript, TypeScript
-- Next.js (15+), React.js, Redux, Zustand, Context API
+- Next.js (14+), React.js, Redux, Zustand, Context API
 - Framer Motion, Styled-Components
 - Web3.js, Wagmi, Web3Modal, Tronweb
 
@@ -29,8 +29,8 @@ I specialize in creating seamless digital experiences, focusing on intuitive use
 ### 📊 Stats & Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MehdiEskandari&show_icons=true&theme=radical" alt="Mehdi's GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiEskandari&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MehdiEskandari&show_icons=true&theme=radical" alt="Mehdi's GitHub stats" height="180" style="margin-right: 20px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiEskandari&layout=compact&theme=radical" alt="Top Languages" height="180" style="margin-left: 20px;"/>
 </div>
 
 ---
