@@ -12,7 +12,7 @@ I specialize in creating seamless digital experiences, focusing on intuitive use
 #### **Frontend**
 - HTML/CSS, Tailwind CSS, Bootstrap, NextUI, DaisyUI
 - JavaScript, TypeScript
-- Next.js (14+), React.js, Redux, Zustand, Context API
+- Next.js (15+), React.js, Redux, Zustand, Context API
 - Framer Motion, Styled-Components
 - Web3.js, Wagmi, Web3Modal, Tronweb
 
